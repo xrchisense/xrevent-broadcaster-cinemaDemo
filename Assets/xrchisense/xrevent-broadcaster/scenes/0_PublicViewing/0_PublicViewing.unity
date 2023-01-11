@@ -163,6 +163,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1416394701893124138, guid: 2af1d2045149fe743b81bc4d1a6f8406,
         type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1416394701893124138, guid: 2af1d2045149fe743b81bc4d1a6f8406,
+        type: 3}
       propertyPath: MaxDistance
       value: 2
       objectReference: {fileID: 0}
@@ -251,8 +256,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 1416394701893124138, guid: 2af1d2045149fe743b81bc4d1a6f8406, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2af1d2045149fe743b81bc4d1a6f8406, type: 3}
 --- !u!20 &216212247 stripped
 Camera:
@@ -2031,6 +2035,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f88099c3b92e02f439a2a11bcc78af46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  roomName: GasStation
 --- !u!1001 &1486278594
 PrefabInstance:
   m_ObjectHideFlags: 0

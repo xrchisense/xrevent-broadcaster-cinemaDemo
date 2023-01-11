@@ -1,31 +1,13 @@
 {
     "m_SelectedDeviceId": "1WMHH860GQ1363",
     "m_SelectedPackage": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+        "deviceId": "1WMHH860GQ1363",
+        "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+        "processId": 13686,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
-        {
-            "deviceId": "1WMHH860GQ1363",
-            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
-            "processId": 11317,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH860GQ1363",
-            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
-            "processId": 12400,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH860GQ1363",
-            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
-            "processId": 13292,
-            "exited": true
-        },
         {
             "deviceId": "1WMHH860GQ1363",
             "name": "com.XRchisense.xreventbroadcastercinemaDemo",
@@ -42,6 +24,42 @@
             "deviceId": "1WMHH860GQ1363",
             "name": "com.oculus.shellenv",
             "processId": 1961,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 4639,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 6784,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.oculus.shellenv",
+            "processId": 5426,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 10913,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 12301,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 13686,
             "exited": false
         }
     ],
