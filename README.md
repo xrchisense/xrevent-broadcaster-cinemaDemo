@@ -18,7 +18,7 @@ A Unity VR multiplayer environment demonstrating the broadcaster plugin in use. 
 
 ## Using the Demo
 1. Clone the repo.
-2.
-3.
+2. Open the project in Unity Hub.
+3. In Unity, open the scene "0_PublicViewing" in the folder "Assets/xrchisense/xrevent-broadcaster/scenes/0_PublicViewing"
 4. 
 5.
