@@ -3,7 +3,7 @@ A Unity VR multiplayer environment demonstrating the broadcaster plugin in use. 
 
 
 ## Visuals
-...
+![Imave of the VR Demo](https://github.com/xrchisense/xrevent-broadcaster-unity/blob/main/Documentation/Images/cd01.jpg?raw=true)
 
 
 ## Prerequisites and Requirements
